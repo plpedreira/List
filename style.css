@@ -1,0 +1,18 @@
+.logo{ 
+  font-size: 24px; 
+  color: #374151; 
+  text-align: center; 
+  margin-top: 20px; 
+}
+
+#back-btn {
+  display: inline-block;
+  padding: 10px 20px;
+  color: #CA3884;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+#back-btn:hover {
+  color: #A52C6B;
+}
